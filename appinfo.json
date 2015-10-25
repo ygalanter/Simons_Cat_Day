@@ -1,0 +1,34 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Pebble Technology",
+    "longName": "Simon's Cat's Day",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu.png",
+                "menuIcon": true,
+                "name": "MENU",
+                "type": "png"
+            },
+            {
+                "file": "images/Simon_back_64.png",
+                "name": "BACK",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Simon's Cat's Day",
+    "targetPlatforms": [
+        "chalk"
+    ],
+    "uuid": "84c13afa-641f-4879-89b5-2c313490724e",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
